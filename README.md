@@ -1,2 +1,3 @@
-# graviton
-Build Desktop Applications using Golang, HTML and CSS :gift:
+# Graviton
+
+**Work In Progress**
